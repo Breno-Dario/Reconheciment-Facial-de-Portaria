@@ -1,0 +1,50 @@
+============================================================
+REGISTRO DE ACESSOS - PORTARIA INTELIGENTE
+============================================================
+Data/Hora		Nome		RA		Status
+------------------------------------------------------------
+03/12/2025 21:14:19	Desconhecido   	N/A            	NEGADO
+03/12/2025 21:14:20	Desconhecido   	N/A            	NEGADO
+03/12/2025 21:14:20	Desconhecido   	N/A            	NEGADO
+03/12/2025 21:14:20	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:14:20	Desconhecido   	N/A            	NEGADO
+03/12/2025 21:14:20	Desconhecido   	N/A            	NEGADO
+03/12/2025 21:14:20	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:14:20	Desconhecido   	N/A            	NEGADO
+03/12/2025 21:14:20	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:14:21	Desconhecido   	N/A            	NEGADO
+03/12/2025 21:14:21	Desconhecido   	N/A            	NEGADO
+03/12/2025 21:14:21	Desconhecido   	N/A            	NEGADO
+03/12/2025 21:14:21	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:14:21	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:14:21	Desconhecido   	N/A            	NEGADO
+03/12/2025 21:14:21	Desconhecido   	N/A            	NEGADO
+03/12/2025 21:14:21	Desconhecido   	N/A            	NEGADO
+03/12/2025 21:14:22	Breno          	RA1371392322016.1	LIBERADO
+03/12/2025 21:14:33	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:14:33	Desconhecido   	N/A            	NEGADO
+03/12/2025 21:14:33	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:14:33	Breno          	RA1371392322016.1	LIBERADO
+03/12/2025 21:15:53	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:15:53	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:15:53	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:15:53	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:15:53	Desconhecido   	N/A            	NEGADO
+03/12/2025 21:15:53	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:15:54	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:15:54	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:15:54	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:15:54	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:15:54	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:15:54	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:15:54	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:15:54	Desconhecido   	N/A            	NEGADO
+03/12/2025 21:15:54	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:15:55	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:15:55	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:15:55	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:15:55	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:15:55	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:15:55	Eduardo        	RA1371392322012.1	NEGADO - Não autorizado
+03/12/2025 21:15:55	Breno          	RA1371392322016.1	LIBERADO
+03/12/2025 21:16:16	Desconhecido   	N/A            	NEGADO
