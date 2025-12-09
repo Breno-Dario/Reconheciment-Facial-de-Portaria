@@ -1,0 +1,625 @@
+============================================================
+REGISTRO DE ACESSOS - PORTARIA INTELIGENTE
+============================================================
+Data/Hora		Nome		RA		Status
+------------------------------------------------------------
+09/12/2025 11:51:45	Breno Dario    	RA1371392322016	LIBERADO
+09/12/2025 11:52:15	Breno Dario    	RA1371392322016	LIBERADO
+09/12/2025 11:52:36	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:36	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:38	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:38	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:38	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:38	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:38	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:39	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:39	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:39	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:39	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:39	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:39	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:39	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:39	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:39	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:39	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:39	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:39	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:39	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:39	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:39	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:39	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:39	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:39	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:39	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:39	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:39	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:39	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:39	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:39	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:39	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:39	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:39	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:39	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:39	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:39	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:39	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:40	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:40	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:40	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:41	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:41	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:41	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:41	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:41	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:41	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:42	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:43	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:43	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:43	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:52:43	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:43	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:43	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:43	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:43	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:43	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:43	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:43	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:43	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:43	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:44	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:44	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:44	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:44	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:44	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:44	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:44	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:45	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:45	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:45	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:45	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:45	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:45	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:45	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:45	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:45	Breno Dario    	RA1371392322016	LIBERADO
+09/12/2025 11:52:56	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:56	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:56	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:56	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:56	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:56	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:56	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:56	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:56	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:56	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:56	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:56	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:56	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:56	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:56	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:56	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:57	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:57	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:57	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:57	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:57	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:57	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:57	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:57	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:57	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:57	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:57	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:57	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:57	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:57	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:57	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:57	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:57	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:57	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:57	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:57	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:57	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:57	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:57	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:57	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:57	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:57	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:57	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:57	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:57	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:57	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:57	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:58	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:59	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:59	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:59	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:59	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:59	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:59	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:59	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:59	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:59	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:59	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:59	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:59	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:52:59	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:00	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:01	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:01	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:02	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:02	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:03	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:03	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:04	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:04	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:04	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:04	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:04	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:04	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:04	William Paiva  	RA1371392322029	NEGADO - Não autorizado
+09/12/2025 11:53:04	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:04	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:04	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:04	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:04	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:04	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:04	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:04	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:04	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:04	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:04	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:04	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:04	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:04	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:04	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:04	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:04	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:04	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:04	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:04	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:04	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:04	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:04	Illee Silva    	RA137139232203 	NEGADO - Não autorizado
+09/12/2025 11:53:04	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:04	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:04	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:53:04	Breno Dario    	RA1371392322016	LIBERADO
+09/12/2025 11:53:35	Breno Dario    	RA1371392322016	LIBERADO
+09/12/2025 11:58:24	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:24	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:24	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:24	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:24	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:24	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:24	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:24	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:24	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:24	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:24	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:24	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:25	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:25	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:25	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:25	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:25	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:25	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:25	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:26	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:26	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:26	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:26	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:26	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:26	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:26	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:26	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:27	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:27	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:27	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:27	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:27	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:27	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:27	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:28	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:28	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:28	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:28	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:28	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:28	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:29	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:29	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:29	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:29	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:29	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:29	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:29	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:29	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:29	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:29	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:29	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:29	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:29	Breno Dario    	RA1371392322016	LIBERADO
+09/12/2025 11:58:31	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:31	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:31	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:31	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:31	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:31	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:31	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:31	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:31	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:31	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:31	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:32	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:32	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:32	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:32	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:32	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:32	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:32	Desconhecido   	N/A            	NEGADO
+09/12/2025 11:58:32	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:07	Breno Dario    	RA1371392322016	LIBERADO
+09/12/2025 12:02:20	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:21	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:21	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:21	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:21	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:22	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:24	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:24	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:24	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:25	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:25	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:25	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:25	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:25	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:25	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:25	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:26	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:26	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:26	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:26	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:26	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:26	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:26	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:26	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:27	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:27	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:27	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:27	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:27	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:27	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:27	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:27	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:28	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:28	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:28	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:28	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:28	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:28	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:28	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:28	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:28	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:29	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:29	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:29	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:29	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:29	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:29	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:29	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:30	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:30	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:30	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:30	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:30	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:30	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:30	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:30	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:31	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:31	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:31	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:31	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:31	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:31	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:31	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:32	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:32	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:32	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:32	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:32	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:32	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:32	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:32	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:33	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:33	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:33	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:33	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:33	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:33	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:33	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:34	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:34	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:34	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:34	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:34	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:35	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:35	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:37	Breno Dario    	RA1371392322016	LIBERADO
+09/12/2025 12:02:38	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:38	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:38	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:39	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:39	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:39	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:39	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:39	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:39	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:39	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:40	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:40	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:40	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:40	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:40	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:40	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:40	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:40	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:41	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:42	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:42	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:42	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:42	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:48	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:49	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:49	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:49	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:49	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:50	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:50	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:50	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:50	Desconhecido   	N/A            	NEGADO
+09/12/2025 12:02:50	Desconhecido   	N/A            	NEGADO
