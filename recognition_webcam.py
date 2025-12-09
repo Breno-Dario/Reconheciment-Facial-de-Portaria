@@ -12,7 +12,7 @@ import platform
 
 
 #   SISTEMA DE ACESSO E LOG
-authorized_people = {"Breno_Dario_RA1371392322016","Alexandro_Jesus_RA1371392322041"}
+authorized_people = {"Breno_Dario_RA1371392322016"}
 last_access = {}
 access_granted_until = {}
 log_file = "acessos_registrados.txt"
@@ -146,7 +146,7 @@ def format_name(full_name):
     return full_name.replace("_", " ")
 
 
-#   🔧🔧🔧 LÓGICA DE RECONHECIMENTO COMPLETAMENTE CORRIGIDA 🔧🔧🔧
+#   🔧 LÓGICA DE RECONHECIMENTO
 def recognize_faces(frame):
     if face_classifier is None:
         cv2.putText(frame, "ERRO: Classificador não carregado", (10, 30),
@@ -169,7 +169,6 @@ def recognize_faces(frame):
         roi = cv2.resize(roi, (90, 120))
         roi = cv2.equalizeHist(roi)
 
-        # PREVISÃO REAL (SEM NOME ANTERIOR FORÇADO)
         try:
             pred, conf = face_classifier.predict(roi)
             if conf <= threshold:
@@ -181,7 +180,11 @@ def recognize_faces(frame):
             conf = 999
 
         recognized_name = name
-        status = access_control(name, grant_duration=30)
+
+        if name == "Não identificado":
+            status = "Acesso NEGADO"
+        else:
+            status = access_control(name, grant_duration=30)
 
         if status == "Acesso LIBERADO" and name != "Não identificado":
             color = (0, 255, 0)
@@ -206,9 +209,8 @@ def recognize_faces(frame):
     return frame, status, recognized_name
 
 
-
 # --------------------------------------------------------------------------
-#   INTERFACE — (SEU CÓDIGO ORIGINAL COMPLETO ABAIXO — INALTERADO)
+#   INTERFACE COM A CORREÇÃO PEDIDA
 # --------------------------------------------------------------------------
 
 class FaceApp:
@@ -486,35 +488,50 @@ class FaceApp:
         except Exception as e:
             messagebox.showerror("Erro", str(e))
 
+    # ----------------------------------------------------------------------
+    #   🔧 FUNÇÃO CORRIGIDA — MOSTRA “ACESSO NEGADO / NÃO IDENTIFICADO”
+    # ----------------------------------------------------------------------
     def update_user_info(self, name, status, remaining_time=0):
         current_time = time.time()
-        
-        if status == "Acesso LIBERADO" and name != "Não identificado":
+
+        # --- Se NÃO identificado -> mostra NEGADO imediatamente ---
+        if name == "Não identificado":
+            self.user_label.config(text="Não identificado", fg=self.colors["error"])
+            self.ra_label.config(text="---", fg=self.colors["error"])
+            self.status_label.config(text="ACESSO NEGADO", fg=self.colors["error"])
+            self.time_label.config(text="---", fg=self.colors["text"])
+            self.access_granted_time = 0
+            return
+
+        # --- Se identificado e liberado ---
+        if status == "Acesso LIBERADO":
             formatted_name = format_name(name)
             ra = extract_ra_from_name(name)
-            
+
             self.user_label.config(text=formatted_name, fg=self.colors["success"])
             self.ra_label.config(text=ra, fg=self.colors["success"])
             self.status_label.config(text="ACESSO LIBERADO", fg=self.colors["success"])
-            
+
             if remaining_time > 0:
                 self.time_label.config(text=f"{int(remaining_time)}s", fg=self.colors["success"])
             else:
                 self.time_label.config(text="30s", fg=self.colors["success"])
-            
+
             self.access_granted_time = current_time
-            
-        else:
-            if current_time - self.access_granted_time < self.access_duration:
-                remaining = self.access_duration - (current_time - self.access_granted_time)
-                if remaining > 0:
-                    self.time_label.config(text=f"{int(remaining)}s", fg=self.colors["success"])
-                    return
-            
-            self.user_label.config(text="---", fg=self.colors["accent"])
-            self.ra_label.config(text="---", fg=self.colors["accent"])
-            self.status_label.config(text="ACESSO NEGADO", fg=self.colors["error"])
-            self.time_label.config(text="---", fg=self.colors["text"])
+            return
+
+        # --- Se acesso negado mas ainda dentro do tempo de liberação anterior ---
+        if current_time - self.access_granted_time < self.access_duration:
+            remaining = self.access_duration - (current_time - self.access_granted_time)
+            self.time_label.config(text=f"{int(remaining)}s", fg=self.colors["success"])
+            return
+
+        # --- Caso contrário, acesso negado ---
+        self.user_label.config(text="---", fg=self.colors["accent"])
+        self.ra_label.config(text="---", fg=self.colors["accent"])
+        self.status_label.config(text="ACESSO NEGADO", fg=self.colors["error"])
+        self.time_label.config(text="---", fg=self.colors["text"])
+        self.access_granted_time = 0
 
     def start(self):
         if self.running:
